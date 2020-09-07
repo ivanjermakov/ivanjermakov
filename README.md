@@ -8,5 +8,5 @@
 **Things I love:** 
  - 💻 Programming
  - 🐧 Linux
- - 🟢 Open source
+ - 🟢 Open source software
  - ⌨️ Mechanical keyboards
